@@ -7,6 +7,7 @@
 __First, we create our account in git and create the file that we will use for our homework. Then we made git work__
 
 ![desc](img/st1.jpg)
+![st1](img/st1.png)
 
 __Then we create the attachments named img, readme.md, tests, coordinates.csv, point.py *(touch & mkdir)* and add them to github *(add)*. After adding, we add a commit.__
 
