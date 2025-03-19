@@ -6,21 +6,20 @@
 
 __First, we create our account in git and create the file that we will use for our homework. Then we made git work__
 
-![desc](img/st1.jpg)
 ![st1](img/st1.png)
 
 __Then we create the attachments named img, readme.md, tests, coordinates.csv, point.py *(touch & mkdir)* and add them to github *(add)*. After adding, we add a commit.__
 
-![desc](img/st2.jpg)
-![desc](img/st3.jpg)
-![desc](img/st4.jpg)
-![desc](img/st5.jpg)
-![desc](img/st6.jpg)
-![desc](img/st7.jpg)
+![st2](img/st2.png)
+![st3](img/st3.png)
+![st4](img/st4.png)
+![st5](img/st5.png)
+![st6](img/st6.png)
+![st7](img/st7.png)
 
 *We loaded the visual plugins into the img file*
 
-![desc](img/st8.jpg)
+![st8](img/st8.png)
 
 ## Git Commands Used in This Assignment
 
@@ -40,10 +39,9 @@ __Then we create the attachments named img, readme.md, tests, coordinates.csv, p
 __In this study, we added coordinates and a simple level code line to the coordinate.csv and point.py attachments we created.__
 
 **for coordinate.csv**
-![desc](img/st9.jpg)
+![st9](img/st9.png)
 
 **for point.py**
-![desc](img/st10.jpg)
+![st10](img/st10.png)
 
 _With this project, we transferred our work to github thanks to the git codes used between git and github._
-![st1](img/st1.png)
