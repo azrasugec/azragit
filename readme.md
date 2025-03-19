@@ -8,7 +8,7 @@ __First, we create our account in git and create the file that we will use for o
 
 ![desc](img/st1.jpg)
 
-__Then we create the attachments named img, readme.md, tests, coordinates.csv, pont.py *(touch & mkdir)* and add them to github *(add)*. After adding, we add a commit.__
+__Then we create the attachments named img, readme.md, tests, coordinates.csv, point.py *(touch & mkdir)* and add them to github *(add)*. After adding, we add a commit.__
 
 ![desc](img/st2.jpg)
 ![desc](img/st3.jpg)
@@ -16,6 +16,10 @@ __Then we create the attachments named img, readme.md, tests, coordinates.csv, p
 ![desc](img/st5.jpg)
 ![desc](img/st6.jpg)
 ![desc](img/st7.jpg)
+
+*We loaded the visual plugins into the img file*
+
+![desc](img/st8.jpg)
 
 ## Git Commands Used in This Assignment
 
@@ -26,3 +30,18 @@ __Then we create the attachments named img, readme.md, tests, coordinates.csv, p
 | `git commit -m "Message"` | Saves changes to the repository |
 | `git status` | Displays the status of modified files |
 | `git push origin master` | Pushes changes to GitHub |
+| `cd directory_name` | Navigates to a specific directory |
+| `echo "text" > file.txt` | Creates a new file and writes text into it |
+| `mkdir folder_name` | Creates a new folder |
+
+# In addition
+
+__In this study, we added coordinates and a simple level code line to the coordinate.csv and point.py attachments we created.__
+
+**for coordinate.csv**
+![desc](img/st9.jpg)
+
+**for point.py**
+![desc](img/st10.jpg)
+
+_With this project, we transferred our work to github thanks to the git codes used between git and github._
