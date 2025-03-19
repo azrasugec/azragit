@@ -33,6 +33,10 @@ __Then we create the attachments named img, readme.md, tests, coordinates.csv, p
 | `cd directory_name` | Navigates to a specific directory |
 | `echo "text" > file.txt` | Creates a new file and writes text into it |
 | `mkdir folder_name` | Creates a new folder |
+| `nano filename` | Opens a file in the terminal for editing |
+
+
+![st11](img/st11.png)
 
 # In addition
 
