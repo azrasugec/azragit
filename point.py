@@ -12,3 +12,4 @@ average_value = sum(numbers) / len(numbers)
 print(f'Min: {min_value}')
 print(f'Max: {max_value}')
 print(f'Average: {average_value:.2f}')
+yeni satır
