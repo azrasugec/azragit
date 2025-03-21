@@ -13,4 +13,3 @@ print(f'Min: {min_value}')
 print(f'Max: {max_value}')
 print(f'Average: {average_value:.2f}')
 
-tekrar satır
